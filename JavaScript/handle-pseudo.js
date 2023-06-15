@@ -1,0 +1,3 @@
+function handlePseudo() {
+    //code
+}
